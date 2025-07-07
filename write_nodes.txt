@@ -1,0 +1,8 @@
+[
+    {"name": ".Server_To_PLC.Request_Data.Token_No", "type": "PLCTYPE_INT"},
+    {"name": ".Server_To_PLC.Request_Data.Car_Type", "type": "PLCTYPE_BYTE"},
+    {"name": ".Server_To_PLC.Request_Data.Request_Type", "type": "PLCTYPE_BYTE"},
+    {"name": ".Server_To_PLC.Add_Request", "type": "PLCTYPE_BOOL"}    
+]
+
+
