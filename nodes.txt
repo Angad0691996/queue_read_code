@@ -708,7 +708,7 @@
     {"name": ".PLC_To_Server.Request_Queue_Status[110].TokenNo", "type": "PLCTYPE_INT"},
     {"name": ".PLC_To_Server.Request_Queue_Status[110].Estimated_Time", "type": "PLCTYPE_INT"},
     {"name": ".PLC_To_Server.Request_Queue_Status[110].Request_Type", "type": "PLCTYPE_BYTE"},
-    {"name": ".PLC_To_Server.Request_Queue_Status[110].Request_In_Progress", "type": "PLCTYPE_BOOL"}
+    {"name": ".PLC_To_Server.Request_Queue_Status[110].Request_In_Progress", "type": "PLCTYPE_BOOL"},
     {"name": ".PLC_To_Server.Request_Queue_Status[110].Lift_No", "type": "PLCTYPE_BYTE"},
 
 ]
